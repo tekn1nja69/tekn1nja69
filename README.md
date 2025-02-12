@@ -4,7 +4,10 @@
 </div>
 ---
 
+
+
 ### 🔒 About Me:  
+
 🛡️ **Cybersecurity Analyst** | 2+ Years Experience  | Passionate Learner |  
 🎯 Preparing for my **OSCP & CREST Exams**  
 🤝 Disappearing for days on **Bug Hunts** 🕵️‍♂️  
@@ -12,8 +15,12 @@
 💡 Interested in **Network | OS | Web AppSec | SOC | SIEM | MDR/EDR/XDR | SOAR | Thick Client Security**  
 🕶️ **Fun fact:** There is no such thing as 100% Secure!  
 
+---
+
+
 
 ### 🛠️ Security Tools I Use:
+
 
 - <img src="https://img.shields.io/badge/OSINT_Framework-FF6347?style=for-the-badge&logo=python&logoColor=white" />
 - <img src="https://img.shields.io/badge/Burp_Suite-FFD700?style=for-the-badge&logo=burpsuite&logoColor=white" />
