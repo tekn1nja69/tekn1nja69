@@ -5,10 +5,11 @@
 ---
 
 ### 🔒 About Me:  
-🛡️ **Cybersecurity Analyst** | Learning **SIEM & Network Security Deployment**  
+🛡️ **Cybersecurity Analyst** | 2+ Years Experience  
 🎯 Preparing for **OSCP & CREST Exams**  
 🤝 Disappearing for days on **Bug Hunts** 🕵️‍♂️  
-💡 Ask me about **Network | OS | Web AppSec | SOC | SIEM | MDR/EDR/XDR | SOAR | Thick Client Security**  
+📊 Experienced in **SIEM & Network Security Deployment**
+💡 Interested in **Network | OS | Web AppSec | SOC | SIEM | MDR/EDR/XDR | SOAR | Thick Client Security**  
 🕶️ **Fun fact:** There is no such thing as 100% Secure!  
 
 
@@ -27,27 +28,20 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 </p>
----
+
+
+
+
+
 
 ### 🛠️ Security Tools I Use:
-- 🕵️‍♂️ **OSINT Framework**
-- 🔍 **Wireshark, Burp Suite, Metasploit**
-- 🛡️ **Nmap, Snort, Suricata**
-- 🔐 **Kali Linux, Parrot OS**
-- 📜 **Digital Forensics & Incident Response (DFIR) tools**
 
+- 🕵️‍♂️ **[OSINT Framework](#)**
+- 🔍 **[Burp Suite](#)** | **[Metasploit Framework](#)** | **[Wireshark](#)**
+- 🛡️ **[Nmap](#)** | **[Fortinet](#)** | **[IBM QRadar](#)**
+- 📊 **[Splunk](#)** | **[Wazuh](#)** | **[Snort](#)** | **[Qualys](#)**
+- 🔐 **[Parrot OS](#)** | **[Kali Linux](#)** 
 
-### 🛠️ Security Tools:
-
-
----
-
-### 🌐 Connect With Me:
-<p align="center">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/yourprofile"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
 
 ---
 
