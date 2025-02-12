@@ -16,9 +16,8 @@
 💡 Interested in **Network | OS | Web AppSec | SOC | SIEM | MDR/EDR/XDR | SOAR | Thick Client Security**  
 🕶️ **Fun fact:** There is no such thing as 100% Secure!  
 
+
 ---
-
-
 
 ### 🛠️ Security Tools I Use:
 
@@ -36,8 +35,13 @@
 - <img src="https://img.shields.io/badge/Parrot_OS-8B0000?style=for-the-badge&logo=parrot&logoColor=white" />
 - <img src="https://img.shields.io/badge/Kali_Linux-2E8B57?style=for-the-badge&logo=kali&logoColor=white" />
 - <img src="https://img.shields.io/badge/Postman-FF4F00?style=for-the-badge&logo=postman&logoColor=white" />
+- <img src="https://img.shields.io/badge/Immunity_Debugger-6A5ACD?style=for-the-badge&logo=python&logoColor=white" />
+
+
+
 
 ---
+
 
 
 
@@ -57,6 +61,8 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 </p>
+
+
 
 
 
