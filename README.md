@@ -1,9 +1,7 @@
 <h1 align="center">Hi, I'm Ali J 👋</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FF00&width=435&lines=   Welcome+to+my+GitHub!;   Cybersecurity+Analyst;   Ethical+Hacker;   Threat+Intelligence+Researcher" />
-</p>
-
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FF00&width=435&lines=Welcome+to+my+GitHub!;Cybersecurity+Analyst;Ethical+Hacker;Threat+Intelligence+Researcher" />
+</h2>
 ---
 
 ### 🔒 About Me:
