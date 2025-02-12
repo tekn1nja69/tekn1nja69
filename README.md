@@ -28,6 +28,5 @@
 - <img src="https://img.shields.io/badge/Qualys-7FFF00?style=for-the-badge&logo=qualys&logoColor=white" />
 - <img src="https://img.shields.io/badge/Parrot_OS-8B0000?style=for-the-badge&logo=parrot&logoColor=white" />
 - <img src="https://img.shields.io/badge/Kali_Linux-2E8B57?style=for-the-badge&logo=kali&logoColor=white" />
-
-
+- <img src="https://img.shields.io/badge/Postman-FF4F00?style=for-the-badge&logo=postman&logoColor=white" />
 
