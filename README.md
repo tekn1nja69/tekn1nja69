@@ -98,13 +98,12 @@ This has included extensive work with various web application technologies, such
 
 
 
-
 ### 🎓 Training & Mentorship:
 
 In my previous organisation, I have created training course content, demonstrated, taught, and mentored various batches of Cybersecurity Trainees in **15+ Web Application Vulnerabilities**, including:
 
 - 🛠️ **XSS** (Cross-Site Scripting)  
-- 🛠️ **SQLi** (SQL Injection)  
+- 🗃️ **SQLi** (SQL Injection)  
 - 🌐 **CORS & HSTS**  
 - ⚠️ **Web Cache Poisoning & Host Header Injection**  
 - 🔒 **CSRF** (Cross-Site Request Forgery)  
@@ -121,6 +120,10 @@ In my previous organisation, I have created training course content, demonstrate
 - 🌐 **Subdomain Takeover & Broken Link Hijacking**  
 - 📚 **Web Application & Web Server Fundamentals**  
 - 💡 **Bug Hunting Essentials**  
+- 💥 **Buffer Overflow & Long Password DOS**  
+
+
+
 
 
 
