@@ -10,30 +10,29 @@
 - 🛡️ I’m currently working as **CyberSecurity Analyst**
 - 🎯 I’m also preparing for my **OSCP & CREST Exams**
 - 🤝 During my free time I love to disappear for days on Bug Hunts!!
-- 🕵️‍♂️ Ask me about **Network | OS | Web AppSec | SOC | SIEM | MDR/EDR/XDR | SOAR**
-- 📫 How to reach me: **[Your Contact]**
+- 🕵️‍♂️ Ask me about **| Network | OS | Web AppSec | SOC | SIEM | MDR/EDR/XDR | SOAR | Thick Client Security |**
 - 🕶️ Fun fact: **I can find things online that you didn’t even know existed!**
 
 ---
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tekn1nja69&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tekn1nja69&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 ---
 
 ### 🏆 GitHub Trophies:
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=dracula&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=tekn1nja69&theme=dracula&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
 ---
 
 ### 💻 Most Used Tools & Languages:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tekn1nja69&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
