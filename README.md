@@ -1,15 +1,11 @@
-<h1 align="center">Hi, I'm Ali J 👋</h1>
+<h1 align="center" style="color: #00FF00;">Hi, I'm Ali J 👋</h1>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=550&lines=🔒+Cybersecurity+Analyst;🕵️‍♂️+Ethical+Hacker;⚔️+Threat+Intelligence+Researcher;💻+Red+Teamer+%7C+Blue+Teamer;🚀+Tech+Enthusiast" />
 </div>
 
 ---
 
-
-
 ### 🔒 About Me:  
-
-
 
 🛡️ **Cybersecurity Analyst** | 2+ Years Experience  | Passionate Learner |  
 🎯 Preparing for my **OSCP & CREST Exams**  
@@ -18,16 +14,9 @@
 💡 Interested in **Network | OS | Web AppSec | SOC | SIEM | MDR/EDR/XDR | SOAR | Thick Client Security**  
 🕶️ **Fun fact:** There is no such thing as 100% Secure!  
 
-
-
-
 ---
 
-
-
 ### 🛠️ Security Tools I Use:
-
-
 
 - <img src="https://img.shields.io/badge/OSINT_Framework-FF6347?style=for-the-badge&logo=python&logoColor=white" />
 - <img src="https://img.shields.io/badge/Burp_Suite-FFD700?style=for-the-badge&logo=burpsuite&logoColor=white" />
@@ -44,11 +33,7 @@
 - <img src="https://img.shields.io/badge/Kali_Linux-2E8B57?style=for-the-badge&logo=kali&logoColor=white" />
 - <img src="https://img.shields.io/badge/Postman-FF4F00?style=for-the-badge&logo=postman&logoColor=white" />
 
-
-
 ---
-
-
 
 ### 💻 Programming Languages & Technologies:  
 <p align="center">
@@ -67,5 +52,5 @@
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 </p>
 
-
 ---
+
