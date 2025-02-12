@@ -42,6 +42,15 @@
 - 🔐 **Kali Linux, Parrot OS**
 - 📜 **Digital Forensics & Incident Response (DFIR) tools**
 
+
+### 🛠️ Security Tools:
+
+| Tool | Icon |
+|------|------|
+| **Nmap** | ![Nmap](https://skillicons.dev/icons?i=nmap) |
+| **OWASP ZAP** | ![OWASP ZAP](https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/OWASP_Zed_Attack_Proxy_logo.svg/50px-OWASP_Zed_Attack_Proxy_logo.svg.png) |
+| **Metasploit Framework** | ![Metasploit](https://www.metasploit.com/images/metasploit-logo.png) |
+| **Burp Suite** | ![Burp Suite](https://portswigger.net/cms/images/bs-badge.svg) |
 ---
 
 ### 🌐 Connect With Me:
