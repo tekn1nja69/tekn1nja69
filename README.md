@@ -70,24 +70,25 @@
 
 I have created training course content, taught, and mentored my Interns in **15+ Web Application Vulnerabilities**, including:
 
-> - XSS (Cross-Site Scripting)  
-> - SQLi (SQL Injection)  
-> - CORS & HSTS  
-> - Web Cache Poisoning & Host Header Injection  
-> - CSRF (Cross-Site Request Forgery)  
-> - SSRF (Server-Side Request Forgery)  
-> - RCE (Remote Code Execution)  
-> - OS Command Injection  
-> - XXE (XML External Entity Injection)  
-> - JWT Hacking (JSON Web Token Attacks)  
-> - Path Traversal, LFI & RFI (Local/Remote File Inclusion)  
-> - Filter Bypass Measures  
-> - Business Logic Bugs  
-> - OTP & Captcha Bypass  
-> - Session Fixation & Hijacking  
-> - Subdomain Takeover & Broken Link Hijacking
-> - Web Application & Web Server Fundamentals
-> - Bug Bounty Essentials
+>  XSS (Cross-Site Scripting)  
+>  SQLi (SQL Injection)  
+>  CORS & HSTS  
+>  Web Cache Poisoning & Host Header Injection  
+>  CSRF (Cross-Site Request Forgery)  
+>  SSRF (Server-Side Request Forgery)  
+>  RCE (Remote Code Execution)  
+>  OS Command Injection  
+>  XXE (XML External Entity Injection)  
+>  JWT Hacking (JSON Web Token Attacks)  
+>  Path Traversal, LFI & RFI (Local/Remote File Inclusion)  
+>  Filter Bypass Measures  
+>  Business Logic Bugs  
+>  OTP & Captcha Bypass  
+>  Session Fixation & Hijacking  
+>  Subdomain Takeover & Broken Link Hijacking
+>  Web Application & Web Server Fundamentals
+>  Bug Bounty Essentials
+
 
 
 
