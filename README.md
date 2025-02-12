@@ -98,9 +98,10 @@ This has included extensive work with various web application technologies, such
 
 
 
+
 ### 🎓 Training & Mentorship:
 
-I have created training course content, demonstrated, taught, and mentored my Interns in **15+ Web Application Vulnerabilities**, including:
+In my previous organisation, I have created training course content, demonstrated, taught, and mentored various batches of Cybersecurity Trainees in **15+ Web Application Vulnerabilities**, including:
 
 - 🛠️ **XSS** (Cross-Site Scripting)  
 - 🛠️ **SQLi** (SQL Injection)  
