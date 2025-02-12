@@ -5,12 +5,13 @@
 ---
 
 ### 🔒 About Me:  
-🛡️ **Cybersecurity Analyst** | 2+ Years Experience  
+🛡️ **Cybersecurity Analyst** | 2+ Years Experience  | Passionate Learner | Selective Workaholic |
 🎯 Preparing for my **OSCP & CREST Exams**  
 🤝 Disappearing for days on **Bug Hunts** 🕵️‍♂️  
 📊 Experienced in **SIEM & Network Security Deployment**  
 💡 Interested in **Network | OS | Web AppSec | SOC | SIEM | MDR/EDR/XDR | SOAR | Thick Client Security**  
 🕶️ **Fun fact:** There is no such thing as 100% Secure!  
+
 
 
 ### 💻 Programming Languages & Technologies:  
@@ -32,16 +33,31 @@
 
 
 
-
-
-
 ### 🛠️ Security Tools I Use:
 
-- 🕵️‍♂️ **[OSINT Framework](#)**
-- 🔍 **[Burp Suite](#)** | **[Metasploit Framework](#)** | **[Wireshark](#)**
-- 🛡️ **[Nmap](#)** | **[Fortinet](#)** | **[IBM QRadar](#)**
-- 📊 **[Splunk](#)** | **[Wazuh](#)** | **[Snort](#)** | **[Qualys](#)**
-- 🔐 **[Parrot OS](#)** | **[Kali Linux](#)** 
+<div style="font-family: 'Courier New', monospace; background-color: #1e1e1e; color: white; padding: 10px; border-radius: 5px; width: fit-content; white-space: nowrap; overflow: hidden;">
+  <span style="display: inline-block; animation: typing 2s steps(30) 1s forwards, blink-caret 0.75s step-end infinite;">🕵️‍♂️ OSINT Framework | 🔍 Burp Suite | Metasploit Framework | Wireshark | 🛡️ Nmap | Fortinet | IBM QRadar | 📊 Splunk | Wazuh | Snort | Qualys | 🔐 Parrot OS | Kali Linux</span>
+</div>
+
+<style>
+  @keyframes typing {
+    from {
+      width: 0;
+    }
+    to {
+      width: 100%;
+    }
+  }
+
+  @keyframes blink-caret {
+    50% {
+      border-color: transparent;
+    }
+    100% {
+      border-color: white;
+    }
+  }
+</style>
 
 
 ---
