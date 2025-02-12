@@ -66,7 +66,6 @@
 
 
 
-
 ---
 
 
@@ -74,20 +73,21 @@
 
 ### 🛡️ Red Teaming Experience:
 
-As part of my **Red Teaming** experience, I have participated in various solo and co-ordinated engagements on assigned client targets. 
+As part of my **Red Teaming** experience, I have participated in various solo and co-ordinated engagements on assigned client targets.  
 This has included extensive work with various web application technologies, such as:
 
-- **Web Servers**: Apache, Nginx, IIS
-- **Web Application Frameworks**: Django, Flask, Node.js, Ruby on Rails, Laravel
-- **Content Management Systems (CMS)**: WordPress, Joomla, Drupal
-- **Authentication Protocols**: OAuth 2.0, SAML, OpenID Connect
-- **Database Technologies**: MySQL, PostgreSQL, MongoDB, Oracle DB
-- **Cloud Platforms**: AWS, Azure, Google Cloud
-- **API Technologies**: REST, GraphQL, SOAP
-- **Containerization**: Docker, Kubernetes
-- **Serverless Architectures**: AWS Lambda, Google Cloud Functions
-- **DevOps Tools**: Jenkins, Terraform, Ansible, Kubernetes
-- **CI/CD Pipelines**: Jenkins, GitLab CI, CircleCI
+- **Web Servers**: Apache, Nginx, IIS  
+- **Web Application Frameworks**: Django, Flask, Node.js, Ruby on Rails, Laravel  
+- **Content Management Systems (CMS)**: WordPress, Joomla, Drupal  
+- **Authentication Protocols**: OAuth 2.0, SAML, OpenID Connect  
+- **Database Technologies**: MySQL, PostgreSQL, MongoDB, Oracle DB  
+- **Cloud Platforms**: AWS, Azure, Google Cloud  
+- **API Technologies**: REST, GraphQL, SOAP  
+- **Containerization**: Docker, Kubernetes  
+- **Serverless Architectures**: AWS Lambda, Google Cloud Functions  
+- **DevOps Tools**: Jenkins, Terraform, Ansible, Kubernetes  
+- **CI/CD Pipelines**: Jenkins, GitLab CI, CircleCI  
+- **Network & Active Directory**: AD, LDAP, Kerberos, Group Policies, and Privilege Escalation Techniques  
 
 
 
