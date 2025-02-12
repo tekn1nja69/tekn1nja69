@@ -22,28 +22,33 @@
 ### 🛠️ Security Tools I Use:
 
 <div align="center">
-  <ul>
-    <li><img src="https://img.shields.io/badge/OSINT_Framework-FF6347?style=for-the-badge&logo=python&logoColor=white" /></li>
-    <li><img src="https://img.shields.io/badge/Burp_Suite-FFD700?style=for-the-badge&logo=burpsuite&logoColor=white" /></li>
-    <li><img src="https://img.shields.io/badge/Metasploit_Framework-32CD32?style=for-the-badge&logo=metasploit&logoColor=white" /></li>
-    <li><img src="https://img.shields.io/badge/Wireshark-4682B4?style=for-the-badge&logo=wireshark&logoColor=white" /></li>
-    <li><img src="https://img.shields.io/badge/Nmap-8A2BE2?style=for-the-badge&logo=nmap&logoColor=white" /></li>
-    <li><img src="https://img.shields.io/badge/Fortinet-FF4500?style=for-the-badge&logo=fortinet&logoColor=white" /></li>
-  </ul>
-  <ul>
-    <li><img src="https://img.shields.io/badge/IBM_QRadar-00BFFF?style=for-the-badge&logo=ibm&logoColor=white" /></li>
-    <li><img src="https://img.shields.io/badge/Splunk-FF1493?style=for-the-badge&logo=splunk&logoColor=white" /></li>
-    <li><img src="https://img.shields.io/badge/Wazuh-20B2AA?style=for-the-badge&logo=wazuh&logoColor=white" /></li>
-    <li><img src="https://img.shields.io/badge/Snort-DC143C?style=for-the-badge&logo=snort&logoColor=white" /></li>
-    <li><img src="https://img.shields.io/badge/Qualys-7FFF00?style=for-the-badge&logo=qualys&logoColor=white" /></li>
-    <li><img src="https://img.shields.io/badge/Parrot_OS-8B0000?style=for-the-badge&logo=parrot&logoColor=white" /></li>
-  </ul>
-  <ul>
-    <li><img src="https://img.shields.io/badge/Kali_Linux-2E8B57?style=for-the-badge&logo=kali&logoColor=white" /></li>
-    <li><img src="https://img.shields.io/badge/Postman-FF4F00?style=for-the-badge&logo=postman&logoColor=white" /></li>
-    <li><img src="https://img.shields.io/badge/Immunity_Debugger-6A5ACD?style=for-the-badge&logo=python&logoColor=white" /></li>
-  </ul>
+  <div style="display: flex; justify-content: center; gap: 30px;">
+    <ul>
+      <li><img src="https://img.shields.io/badge/OSINT_Framework-FF6347?style=for-the-badge&logo=python&logoColor=white" /></li>
+      <li><img src="https://img.shields.io/badge/Burp_Suite-FFD700?style=for-the-badge&logo=burpsuite&logoColor=white" /></li>
+      <li><img src="https://img.shields.io/badge/Metasploit_Framework-32CD32?style=for-the-badge&logo=metasploit&logoColor=white" /></li>
+      <li><img src="https://img.shields.io/badge/Wireshark-4682B4?style=for-the-badge&logo=wireshark&logoColor=white" /></li>
+      <li><img src="https://img.shields.io/badge/Nmap-8A2BE2?style=for-the-badge&logo=nmap&logoColor=white" /></li>
+    </ul>
+
+    <ul>
+      <li><img src="https://img.shields.io/badge/Fortinet-FF4500?style=for-the-badge&logo=fortinet&logoColor=white" /></li>
+      <li><img src="https://img.shields.io/badge/IBM_QRadar-00BFFF?style=for-the-badge&logo=ibm&logoColor=white" /></li>
+      <li><img src="https://img.shields.io/badge/Splunk-FF1493?style=for-the-badge&logo=splunk&logoColor=white" /></li>
+      <li><img src="https://img.shields.io/badge/Wazuh-20B2AA?style=for-the-badge&logo=wazuh&logoColor=white" /></li>
+      <li><img src="https://img.shields.io/badge/Snort-DC143C?style=for-the-badge&logo=snort&logoColor=white" /></li>
+    </ul>
+
+    <ul>
+      <li><img src="https://img.shields.io/badge/Qualys-7FFF00?style=for-the-badge&logo=qualys&logoColor=white" /></li>
+      <li><img src="https://img.shields.io/badge/Parrot_OS-8B0000?style=for-the-badge&logo=parrot&logoColor=white" /></li>
+      <li><img src="https://img.shields.io/badge/Kali_Linux-2E8B57?style=for-the-badge&logo=kali&logoColor=white" /></li>
+      <li><img src="https://img.shields.io/badge/Postman-FF4F00?style=for-the-badge&logo=postman&logoColor=white" /></li>
+      <li><img src="https://img.shields.io/badge/Immunity_Debugger-6A5ACD?style=for-the-badge&logo=python&logoColor=white" /></li>
+    </ul>
+  </div>
 </div>
+
 
 ---
 
