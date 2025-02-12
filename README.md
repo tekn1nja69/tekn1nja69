@@ -35,45 +35,18 @@
 
 ### 🛠️ Security Tools I Use:
 
-<div style="font-family: 'Courier New', monospace; background-color: #1e1e1e; color: white; padding: 10px; border-radius: 5px; width: fit-content; white-space: nowrap; overflow: hidden;">
-  <span style="display: inline-block; animation: typing 2s steps(30) 1s forwards, blink-caret 0.75s step-end infinite;">🕵️‍♂️ OSINT Framework | 🔍 Burp Suite | Metasploit Framework | Wireshark | 🛡️ Nmap | Fortinet | IBM QRadar | 📊 Splunk | Wazuh | Snort | Qualys | 🔐 Parrot OS | Kali Linux</span>
-</div>
-
-<style>
-  @keyframes typing {
-    from {
-      width: 0;
-    }
-    to {
-      width: 100%;
-    }
-  }
-
-  @keyframes blink-caret {
-    50% {
-      border-color: transparent;
-    }
-    100% {
-      border-color: white;
-    }
-  }
-</style>
-
-
----
-
-### 🕶️ GitHub Skyline:
-<p align="center">
-  <a href="https://skyline.github.com/yourusername/2024"><img src="https://img.shields.io/badge/GitHub%20Skyline-FF69B4?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
-</p>
-
-```
-
+- <img src="https://img.shields.io/badge/OSINT_Framework-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+- <img src="https://img.shields.io/badge/Burp_Suite-4EAA25?style=for-the-badge&logo=burpsuite&logoColor=white" />
+- <img src="https://img.shields.io/badge/Metasploit_Framework-4EAA25?style=for-the-badge&logo=metasploit&logoColor=white" />
+- <img src="https://img.shields.io/badge/Wireshark-4EAA25?style=for-the-badge&logo=wireshark&logoColor=white" />
+- <img src="https://img.shields.io/badge/Nmap-3776AB?style=for-the-badge&logo=nmap&logoColor=white" />
+- <img src="https://img.shields.io/badge/Fortinet-3776AB?style=for-the-badge&logo=fortinet&logoColor=white" />
+- <img src="https://img.shields.io/badge/IBM_QRadar-4EAA25?style=for-the-badge&logo=ibm&logoColor=white" />
+- <img src="https://img.shields.io/badge/Splunk-3776AB?style=for-the-badge&logo=splunk&logoColor=white" />
+- <img src="https://img.shields.io/badge/Wazuh-4EAA25?style=for-the-badge&logo=wazuh&logoColor=white" />
+- <img src="https://img.shields.io/badge/Snort-3776AB?style=for-the-badge&logo=snort&logoColor=white" />
+- <img src="https://img.shields.io/badge/Qualys-4EAA25?style=for-the-badge&logo=qualys&logoColor=white" />
+- <img src="https://img.shields.io/badge/Parrot_OS-3776AB?style=for-the-badge&logo=parrot&logoColor=white" />
+- <img src="https://img.shields.io/badge/Kali_Linux-4EAA25?style=for-the-badge&logo=kali&logoColor=white" />
 
 -->
