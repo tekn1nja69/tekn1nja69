@@ -9,7 +9,6 @@
 🎯 Preparing for **OSCP & CREST Exams**  
 🤝 Disappearing for days on **Bug Hunts** 🕵️‍♂️  
 📊 Experienced in **SIEM & Network Security Deployment**
-
 💡 Interested in **Network | OS | Web AppSec | SOC | SIEM | MDR/EDR/XDR | SOAR | Thick Client Security**  
 🕶️ **Fun fact:** There is no such thing as 100% Secure!  
 
