@@ -5,7 +5,7 @@
 ---
 
 ### 🔒 About Me:  
-🛡️ **Cybersecurity Analyst** | 2+ Years Experience  | Passionate Learner | Selective Workaholic |
+🛡️ **Cybersecurity Analyst** | 2+ Years Experience  | Passionate Learner |  
 🎯 Preparing for my **OSCP & CREST Exams**  
 🤝 Disappearing for days on **Bug Hunts** 🕵️‍♂️  
 📊 Experienced in **SIEM & Network Security Deployment**  
