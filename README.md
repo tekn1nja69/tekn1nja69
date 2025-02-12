@@ -4,33 +4,24 @@
 </div>
 ---
 
-### 🔒 About Me:
-- 🛡️ I’m currently working as **CyberSecurity Analyst**
-- 🎯 I’m also preparing for my **OSCP & CREST Exams**
-- 🤝 During my free time I love to disappear for days on Bug Hunts!!
-- 🕵️‍♂️ Ask me about **| Network | OS | Web AppSec | SOC | SIEM | MDR/EDR/XDR | SOAR | Thick Client Security |**
-- 🕶️ Fun fact: **I can find things online that you didn’t even know existed!**
+### 🔒 About Me:  
+🛡️ **Cybersecurity Analyst** | Learning **SIEM & Network Security Deployment**  
+🎯 Preparing for **OSCP & CREST Exams**  
+🤝 Disappearing for days on **Bug Hunts** 🕵️‍♂️  
+💡 Ask me about **Network | OS | Web AppSec | SOC | SIEM | MDR/EDR/XDR | SOAR | Thick Client Security**  
+🕶️ **Fun fact:** There is no such thing as 100% Secure!  
 
----
 
-### 📊 GitHub Stats:
+
+
+### 💻 Programming Languages:  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tekn1nja69&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=tekn1nja69&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
----
-
-### 🏆 GitHub Trophies:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tekn1nja69&theme=dracula&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
-
----
-
-### 💻 Most Used Tools & Languages:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tekn1nja69&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
 
 ---
@@ -45,12 +36,7 @@
 
 ### 🛠️ Security Tools:
 
-| Tool | Icon |
-|------|------|
-| **Nmap** | ![Nmap](https://skillicons.dev/icons?i=nmap) |
-| **OWASP ZAP** | ![OWASP ZAP](https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/OWASP_Zed_Attack_Proxy_logo.svg/50px-OWASP_Zed_Attack_Proxy_logo.svg.png) |
-| **Metasploit Framework** | ![Metasploit](https://www.metasploit.com/images/metasploit-logo.png) |
-| **Burp Suite** | ![Burp Suite](https://portswigger.net/cms/images/bs-badge.svg) |
+
 ---
 
 ### 🌐 Connect With Me:
