@@ -7,6 +7,31 @@
 
 
 
+```plaintext
+
+
+      ___           ___           ___           ___                         ___           ___           ___                   
+     /__/\         /  /\         /  /\         /  /\          ___          /  /\         /  /\         /  /\          ___     
+     \  \:\       /  /::\       /  /::\       /  /::\        /__/\        /  /::\       /  /:/        /  /::\        /__/\    
+      \  \:\     /  /:/\:\     /  /:/\:\     /  /:/\:\       \  \:\      /  /:/\:\     /  /:/        /__/:/\:\       \  \:\   
+       \  \:\   /  /::\ \:\   /  /::\ \:\   /  /:/  \:\       \__\:\    /  /::\ \:\   /  /:/        _\_ \:\ \:\       \__\:\  
+  ______\__\:\ /__/:/\:\ \:\ /__/:/\:\_\:\ /__/:/ \__\:\      /  /::\  /__/:/\:\_\:\ /__/:/     /\ /__/\ \:\ \:\      /  /::\ 
+ \  \::::::::/ \  \:\ \:\_\/ \__\/~|::\/:/ \  \:\ /  /:/     /  /:/\:\ \__\/~|::\/:/ \  \:\    /:/ \  \:\ \:\_\/     /  /:/\:\
+  \  \:\~~~~~   \  \:\ \:\      |  |:|::/   \  \:\  /:/     /  /:/__\/    |  |:|::/   \  \:\  /:/   \  \:\_\:\      /  /:/__\/
+   \  \:\        \  \:\_\/      |  |:|\/     \  \:\/:/     /__/:/         |  |:|\/     \  \:\/:/     \  \:\/:/     /__/:/     
+    \  \:\        \  \:\        |__|:|~       \  \::/      \__\/          |__|:|~       \  \::/       \  \::/      \__\/      
+     \__\/         \__\/         \__\|         \__\/                       \__\|         \__\/         \__\/                  
+
+
+
+
+
+```
+
+
+
+
+
 ### 🔒 About Me:  
 
 🛡️ **Cybersecurity Analyst** | 2+ Years Experience  | Passionate Learner |  
@@ -21,33 +46,34 @@
 
 ### 🛠️ Security Tools I Use:
 
-<div align="center">
-  <div style="display: flex; justify-content: center; gap: 30px;">
-    <ul>
-      <li><img src="https://img.shields.io/badge/OSINT_Framework-FF6347?style=for-the-badge&logo=python&logoColor=white" /></li>
-      <li><img src="https://img.shields.io/badge/Burp_Suite-FFD700?style=for-the-badge&logo=burpsuite&logoColor=white" /></li>
-      <li><img src="https://img.shields.io/badge/Metasploit_Framework-32CD32?style=for-the-badge&logo=metasploit&logoColor=white" /></li>
-      <li><img src="https://img.shields.io/badge/Wireshark-4682B4?style=for-the-badge&logo=wireshark&logoColor=white" /></li>
-      <li><img src="https://img.shields.io/badge/Nmap-8A2BE2?style=for-the-badge&logo=nmap&logoColor=white" /></li>
-    </ul>
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; width: 100%;">
+  
+  <ul>
+    <li><img src="https://img.shields.io/badge/OSINT_Framework-FF6347?style=for-the-badge&logo=python&logoColor=white" /></li>
+    <li><img src="https://img.shields.io/badge/Burp_Suite-FFD700?style=for-the-badge&logo=burpsuite&logoColor=white" /></li>
+    <li><img src="https://img.shields.io/badge/Metasploit_Framework-32CD32?style=for-the-badge&logo=metasploit&logoColor=white" /></li>
+    <li><img src="https://img.shields.io/badge/Wireshark-4682B4?style=for-the-badge&logo=wireshark&logoColor=white" /></li>
+    <li><img src="https://img.shields.io/badge/Nmap-8A2BE2?style=for-the-badge&logo=nmap&logoColor=white" /></li>
+  </ul>
 
-    <ul>
-      <li><img src="https://img.shields.io/badge/Fortinet-FF4500?style=for-the-badge&logo=fortinet&logoColor=white" /></li>
-      <li><img src="https://img.shields.io/badge/IBM_QRadar-00BFFF?style=for-the-badge&logo=ibm&logoColor=white" /></li>
-      <li><img src="https://img.shields.io/badge/Splunk-FF1493?style=for-the-badge&logo=splunk&logoColor=white" /></li>
-      <li><img src="https://img.shields.io/badge/Wazuh-20B2AA?style=for-the-badge&logo=wazuh&logoColor=white" /></li>
-      <li><img src="https://img.shields.io/badge/Snort-DC143C?style=for-the-badge&logo=snort&logoColor=white" /></li>
-    </ul>
+  <ul>
+    <li><img src="https://img.shields.io/badge/Fortinet-FF4500?style=for-the-badge&logo=fortinet&logoColor=white" /></li>
+    <li><img src="https://img.shields.io/badge/IBM_QRadar-00BFFF?style=for-the-badge&logo=ibm&logoColor=white" /></li>
+    <li><img src="https://img.shields.io/badge/Splunk-FF1493?style=for-the-badge&logo=splunk&logoColor=white" /></li>
+    <li><img src="https://img.shields.io/badge/Wazuh-20B2AA?style=for-the-badge&logo=wazuh&logoColor=white" /></li>
+    <li><img src="https://img.shields.io/badge/Snort-DC143C?style=for-the-badge&logo=snort&logoColor=white" /></li>
+  </ul>
 
-    <ul>
-      <li><img src="https://img.shields.io/badge/Qualys-7FFF00?style=for-the-badge&logo=qualys&logoColor=white" /></li>
-      <li><img src="https://img.shields.io/badge/Parrot_OS-8B0000?style=for-the-badge&logo=parrot&logoColor=white" /></li>
-      <li><img src="https://img.shields.io/badge/Kali_Linux-2E8B57?style=for-the-badge&logo=kali&logoColor=white" /></li>
-      <li><img src="https://img.shields.io/badge/Postman-FF4F00?style=for-the-badge&logo=postman&logoColor=white" /></li>
-      <li><img src="https://img.shields.io/badge/Immunity_Debugger-6A5ACD?style=for-the-badge&logo=python&logoColor=white" /></li>
-    </ul>
-  </div>
+  <ul>
+    <li><img src="https://img.shields.io/badge/Qualys-7FFF00?style=for-the-badge&logo=qualys&logoColor=white" /></li>
+    <li><img src="https://img.shields.io/badge/Parrot_OS-8B0000?style=for-the-badge&logo=parrot&logoColor=white" /></li>
+    <li><img src="https://img.shields.io/badge/Kali_Linux-2E8B57?style=for-the-badge&logo=kali&logoColor=white" /></li>
+    <li><img src="https://img.shields.io/badge/Postman-FF4F00?style=for-the-badge&logo=postman&logoColor=white" /></li>
+    <li><img src="https://img.shields.io/badge/Immunity_Debugger-6A5ACD?style=for-the-badge&logo=python&logoColor=white" /></li>
+  </ul>
+  
 </div>
+
 
 
 ---
@@ -130,14 +156,16 @@ In my previous organisation, I have created training course content, demonstrate
 - 🌐 **Subdomain Takeover & Broken Link Hijacking**  
 - 📚 **Web Application & Web Server Fundamentals**  
 - 💡 **Bug Hunting Essentials**  
-- 💥 **Buffer Overflow & Long Password DOS**  
-
-
-
-
-
+- 💥 **Buffer Overflow & Long Password DOS**
 
 
 
 ---
 
+
+I am actively looking for opportunities to contribute to improving the security posture of organizations through proactive threat detection, vulnerability management, and risk mitigation strategies. 
+I am passionate about researching emerging threat trends and Tactics, Techniques, and Procedures (TTPs), constantly staying ahead of evolving cyber risks to help organizations build resilient and secure infrastructures.
+
+
+
+---
