@@ -133,6 +133,31 @@ This has included extensive work with various web application technologies, such
 
 
 
+### 🛡️ Blue Teaming Interests:
+
+Through my Journey so far, I have understood that the future of Cybersecurity Is Automated attacks and responses. 
+With malware continuously evolving and incorporating the use of Machine learning, Security measures on our end must be absolutely paranoid,
+With MFA, Zero Trust, Principle of Least Privileges and Real time Monitoring of endpoints as our goals.
+
+I have studied the Installation , Configuriation, Deployment and operation of various Network/Endpoint Security Tools.
+This Includes:
+
+
+🔹 Network Device Configuration & Trouble Shooting ( Routers, Switches & Firewalls )  
+🔹 **Splunk** – Log analysis, security analytics, and incident response.  
+🔹 **Azure Sentinel** – Cloud-native SIEM & SOAR for threat intelligence.  
+🔹 **FortiSIEM** – Security event correlation and visibility across networks.  
+🔹 **IBM QRadar** – Advanced threat detection and automated response.  
+🔹 **Qualys** – Vulnerability management and compliance scanning.  
+
+You can view my Progress [Here!!](https://github.com/tekn1nja69/My-Professional-Certificates)
+
+
+
+
+---
+
+
 
 ### 🎓 Training & Mentorship:
 
