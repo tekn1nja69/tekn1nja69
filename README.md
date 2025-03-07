@@ -39,7 +39,7 @@
 🤝 Disappearing for days on **Bug Hunts** 🕵️‍♂️  
 📊 Experienced in **SIEM & Network Security Deployment**  
 💡 Interested in **Network | OS | Web AppSec | SOC | SIEM | MDR/EDR/XDR | SOAR | Thick Client Security**  
-🕶️ **Fun fact:** There is no such thing as 100% Secure!  
+🕶️ **Fun fact:** There is no such thing as 100% Secure!  Your personal security depends on movements of electrons through cables and radiation signals through the wind. 
 
 
 ---
