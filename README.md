@@ -161,7 +161,7 @@ You can view my Progress [Here!!](https://github.com/tekn1nja69/My-Professional-
 
 ### 🎓 Training & Mentorship:
 
-In my previous organisation, I have created training course content, demonstrated, taught, and mentored various batches of Cybersecurity Trainees in **15+ Web Application Vulnerabilities**, including:
+In my previous organisation, As part of my Mentorship duties, I have created training course content, demonstrated, taught, and mentored various batches of Cybersecurity Trainees in **15+ Web Application Vulnerabilities**, including:
 
 - 🛠️ **XSS** (Cross-Site Scripting)  
 - 🗃️ **SQLi** (SQL Injection)  
