@@ -109,7 +109,7 @@
 
 ### 🛡️ Red Teaming Experience:
 
-As part of my **Red Teaming** experience, I have participated in various solo and co-ordinated engagements on assigned client targets.  
+As part of my **Red Teaming** experience, I have participated in various solo and co-ordinated engagements with legends, on assigned client targets.  
 This has included extensive work with various web application technologies, such as:
 
 - **Web Servers**: Apache, Nginx, IIS  
